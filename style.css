@@ -1,0 +1,425 @@
+.hero{
+
+position: relative;
+width: 1440px;
+height: 3378px;
+
+background: #FFFFFF;
+}
+.image-1{
+    position: absolute;
+    width: 1440px;
+    height: 622px;
+    left: -10px;
+    top: -10px;
+    right: -10px;
+    
+    background: url(image.png);
+}
+.logo{
+    position: absolute;
+width: 47px;
+height: 50px;
+left: 105px;
+top: 44px;
+
+background: url(pngwing.png);
+}
+.text-1{
+    position: absolute;
+width: 451px;
+height: 125px;
+left: calc(50% - 451px/2 + 12.5px);
+top: 228px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 67px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.rectangle-2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 816px;
+height: 140px;
+left: 312px;
+top: 552px;
+
+background: #FFFFFF;
+border: 1px solid #85BBD0;
+border-radius: 15px;
+}
+.sea-world{
+    position: absolute;
+width: 132px;
+height: 39px;
+left: 162px;
+top: 50px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+color: #FFFFFF;
+z-index: 5;
+}
+.sea-world p{
+  
+
+}
+.summer-landscape{
+
+position: absolute;
+width: 136px;
+height: 130px;
+left: 353px;
+top: 557px;
+}
+.keep{
+    position: absolute;
+    width: 126px;
+    height: 61px;
+    left: 491px;
+    top: 593px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #6B6B6B;  
+}
+.fishing-flatine{
+    position: absolute;
+    width: 134px;
+    height: 127px;
+    left: 622px;
+    top: 561px;
+}
+.keep-local{
+    position: absolute;
+width: 143px;
+height: 72px;
+left: 735px;
+top: 574px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #6B6B6B;
+}
+.undraw-pic{
+    position: absolute;
+width: 106px;
+height: 88px;
+left: 907px;
+top: 576px;
+}
+.keep-earth{
+    position: absolute;
+width: 92px;
+height: 56px;
+left: 1027px;
+top: 575px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #6B6B6B;
+
+}
+.rectangle-3{
+    position: absolute;
+width: 645px;
+height: 400px;
+left: 86px;
+top: 891px;
+
+background: url(image.png);
+border-radius: 15px;
+}
+.who-are-we{
+    position: absolute;
+width: 322px;
+height: 48px;
+left: 768px;
+top: 891px;
+z-index: 5;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+}
+.text-2{
+    position: absolute;
+width: 593px;
+height: 156px;
+left: 815px;
+top: 984px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #4E4E4E;
+}
+.rectangle-4{
+    position: absolute;
+width: 192px;
+height: 71px;
+left: 815px;
+top: 1184px;
+
+background: #6FC5FF;
+border-radius: 15px;
+}
+.hero p{
+    position: absolute;
+width: 165px;
+height: 41px;
+left: 843px;
+top: 1168px;
+z-index: 5;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+}
+.rectangle-16{
+    position: absolute;
+    width: 1440px;
+    height: 1248px;
+    left: 0px;
+    top: 1438px;
+    
+    background: #F8F5F5;
+}
+.title-1{
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 577px;
+top: 1499px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+}
+.rectangle-5{
+    position: absolute;
+    width: 362px;
+    height: 481px;
+    left: 209px;
+    top: 1637px;
+    
+    background: url(image.png);
+    border-radius: 15px; 
+}
+.rectangle-15{
+    position: absolute;
+    width: 625px;
+    height: 280px;
+    left: 606px;
+    top: 1637px;
+    
+    background: url(image.png);
+    border-radius: 15px;
+}
+.rectangle-9{
+    position: absolute;
+width: 625px;
+height: 280px;
+left: 209px;
+top: 2174px;
+
+background: url(image.png);
+border-radius: 15px;
+}
+.rectangle-8{
+    position: absolute;
+width: 362px;
+height: 481px;
+left: 869px;
+top: 1973px;
+
+background: url(image.png);
+border-radius: 15px;
+}
+.logo-2{
+    position: absolute;
+width: 98px;
+height: 100px;
+left: 671px;
+top: 1996px;
+
+background: url(pngwing.png);
+}
+.rectangle-10{
+
+position: absolute;
+width: 192px;
+height: 71px;
+left: 623px;
+top: 2552px;
+
+background: #6FC5FF;
+border-radius: 15px;
+}
+.hero span{
+    position: absolute;
+width: 165px;
+height: 41px;
+left: 658px;
+top: 2567px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+footer{
+    position: absolute;
+width: 1441px;
+height: 462px;
+left: -1px;
+top: 2916px;
+
+background: #6EC5FF;
+}
+.frame-1{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 236px;
+height: 72px;
+left: 104px;
+top: 2974px;
+color: #FFFFFF;
+text-align: center;
+ font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.frame-2{
+  
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 206px;
+    height: 72px;
+    left: 824px;
+    top: 2974px;
+    color: #FFFFFF;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+flex: none;
+order: 0;
+flex-grow: 0;  
+}
+.lorem{
+    position: absolute;
+    width: 409px;
+    height: 152px;
+    left: 104px;
+    top: 3090px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+}
+.input-1{
+    position: absolute;
+width: 451px;
+height: 56px;
+left: 834px;
+top: 3062px;
+padding-left: 10px;
+background: #FFFBFB;
+border-radius: 15px;
+}
+.input-2{
+
+position: absolute;
+width: 451px;
+height: 56px;
+left: 834px;
+top: 3154px;
+padding-left: 10px;
+background: #FFFBFB;
+border-radius: 15px;
+}
+.send{
+    position: absolute;
+    width: 199px;
+    height: 70px;
+    left: 1077px;
+    top: 3257px;
+    
+    background: #6FC5FF;
+    border: 2px solid #FFFFFF;
+    border-radius: 15px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 40px;
+text-align: center;
+cursor: pointer;
+
+}
+.send a{color: #FFFFFF;
+    text-decoration: none;
+}
